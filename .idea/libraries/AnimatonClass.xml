@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="AnimatonClass">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/AnimatonClass.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/JTattoo-1.6.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/JTextFieldRound.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/RSTableMetro.jar!/" />
+      <root url="file://$PROJECT_DIR$/Librerias/Librerias/Librerias" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/jasperreports-javaflow-4.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/poi-3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/png-encoder-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/jasperreports-4.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/iText-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/groovy-all-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-javaflow-20060411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-beanutils-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Librerias/Librerias/Librerias" recursive="false" />
+  </library>
+</component>

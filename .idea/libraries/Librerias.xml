@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Librerias">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Librerias" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/beansbinding-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/mysql-connector-java-8.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/poi-3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/png-encoder-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/jasperreports-javaflow-4.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/jasperreports-4.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/iText-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/groovy-all-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-javaflow-20060411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librerias/Librerias/Librerias/Reportes/JasperReport/JARs Para la librería JasperReports/commons-beanutils-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
